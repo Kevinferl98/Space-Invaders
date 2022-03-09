@@ -9,5 +9,5 @@ The game features two modes: the classic arcade mode and a 4-level mode with a f
 #### This is an example of the Main Menu created based on the original Main Menu of the 1978 <br>
 <img src="/Images/Main-Menu.png" alt="main menu" width="400"/>
 
-#### And this is an in game screenshot <br>
-<img src="/Images/Game2.png" alt="game" width="400"/>
+#### And this is the gameplay <br>
+<img src="/Images/gameplay.gif" alt="game" width="400"/>
