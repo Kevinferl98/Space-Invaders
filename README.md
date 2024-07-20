@@ -7,7 +7,11 @@ but I also <br> added several 8-bit music from others famous games. <br>
 The game features two modes: the classic arcade mode and a 4-level mode with a final boss. <br>
 
 #### This is an example of the Main Menu created based on the original Main Menu of the 1978 <br>
-<img src="/Images/Main-Menu.png" alt="main menu" width="400"/>
+<p align="center">
+<img src="/Images/Main-Menu.png" alt="main menu" width="80%"/>
+</p>
 
 #### And this is the gameplay <br>
-<img src="/Images/gameplay.gif" alt="game" width="400"/>
+<p align="center">
+<img src="/Images/gameplay.gif" alt="game" width="80%"/>
+</p>
